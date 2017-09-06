@@ -29,7 +29,7 @@ For other operation systems, check the link here:
 sudo sshfs -o allow_other,defer_permissions,IdentityFile=~/.ssh/id_rsa user@host:/remotefolder/ /localfolder
 ```
 
-Then your remote folder will be appear in your local address.
+Then your remote folder will appear in your local address.
 #### Common Issues:
 If you end up with error message:
  ```
