@@ -9,7 +9,7 @@ categories: jekyll pixyll
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-## Install and download FUSE and SSHFS
+## Install FUSE and SSHFS
 
 ### Install FUSE
 ```
