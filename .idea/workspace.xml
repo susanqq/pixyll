@@ -2,19 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aca60384-0e48-4558-9735-a03d6110ff33" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/pixyll.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cooking.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-06-08-pixyll-has-pagination.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-06-09-so-what-is-jekyll.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-06-10-see-pixyll-in-action.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-06-11-welcome-to-pixyll.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-07-11-announcing-pixyll-version-2.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apple-touch-icon-114x114.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apple-touch-icon-120x120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apple-touch-icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apple-touch-icon-152x152.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apple-touch-icon-180x180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apple-touch-icon-57x57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apple-touch-icon-60x60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apple-touch-icon-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apple-touch-icon-76x76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon-160x160.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon-192x192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/thanks.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,8 +52,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="1905">
+              <caret line="127" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -159,16 +163,6 @@
             <path>
               <item name="pixyll" type="b2602c69:ProjectViewProjectNode" />
               <item name="pixyll" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pixyll" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pixyll" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pixyll" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pixyll" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -381,8 +375,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="1905">
+          <caret line="127" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
           <folding />
         </state>
       </provider>
