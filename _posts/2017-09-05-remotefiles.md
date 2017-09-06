@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      How to mount remote folder over ssh on mac
-date:       2017-09-06
+date:       2017-09-05
 summary:    This is a turtorial on how to mount remote folder for mac system
 categories: jekyll pixyll
 ---
