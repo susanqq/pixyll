@@ -131,3 +131,4 @@ exclude:
   - Gemfile.lock
   - vendor
 future: true
+timezone: UTC-05
