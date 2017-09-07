@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Cooking
-permalink: /Techiques/
-tags: Cooking
+permalink: /Cooking/
+tags: 
 ---
-Comming Soon
+### 东北酱大骨
+
+![image](/images/cooking/cooking-1.png)
